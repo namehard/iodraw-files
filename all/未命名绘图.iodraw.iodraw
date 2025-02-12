@@ -43,9 +43,6 @@
         <mxCell id="2D4HgjUvMn3YzrhhyBY4-37" value="" style="shape=mxgraph.cisco.storage.file_cabinet;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="1070" y="350" width="51" height="62" as="geometry" />
         </mxCell>
-        <mxCell id="2D4HgjUvMn3YzrhhyBY4-38" value="" style="shape=mxgraph.cisco.storage.file_cabinet;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="500" y="258" width="51" height="62" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
