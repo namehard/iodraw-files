@@ -40,9 +40,6 @@
         <mxCell id="2D4HgjUvMn3YzrhhyBY4-35" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.mysql_database;" vertex="1" parent="1">
           <mxGeometry x="370" y="340" width="37.5" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="2D4HgjUvMn3YzrhhyBY4-36" value="Embedded" style="text;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="10" y="10" width="90" height="40" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
