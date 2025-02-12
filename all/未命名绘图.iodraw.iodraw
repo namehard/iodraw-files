@@ -13,6 +13,9 @@
         <mxCell id="2D4HgjUvMn3YzrhhyBY4-8" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/DC_OS.svg;" vertex="1" parent="1">
           <mxGeometry x="1080" y="320" width="40" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="2D4HgjUvMn3YzrhhyBY4-9" value="" style="shadow=0;dashed=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.3d.workstation;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="310" width="76" height="62" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
