@@ -16,9 +16,6 @@
         <mxCell id="2D4HgjUvMn3YzrhhyBY4-17" value="" style="shape=mxgraph.cisco.misc.hp_mini;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="1150" y="204" width="50" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="2D4HgjUvMn3YzrhhyBY4-23" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/Azure_Database_MySQL_Server.svg;" vertex="1" parent="1">
-          <mxGeometry x="370" y="339.67" width="38" height="50.67" as="geometry" />
-        </mxCell>
         <mxCell id="2D4HgjUvMn3YzrhhyBY4-24" value="" style="shadow=0;dashed=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.3d.datastore;" vertex="1" parent="1">
           <mxGeometry x="600" y="335" width="44" height="60" as="geometry" />
         </mxCell>
@@ -44,7 +41,7 @@
           <mxGeometry x="1080" y="360" width="37.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="2D4HgjUvMn3YzrhhyBY4-35" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.mysql_database;" vertex="1" parent="1">
-          <mxGeometry x="320" y="370" width="37.5" height="50" as="geometry" />
+          <mxGeometry x="370" y="340" width="37.5" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
