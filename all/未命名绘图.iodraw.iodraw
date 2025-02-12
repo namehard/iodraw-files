@@ -19,6 +19,9 @@
         <mxCell id="2D4HgjUvMn3YzrhhyBY4-18" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/SQL_Server_Registries.svg;" vertex="1" parent="1">
           <mxGeometry x="1060" y="350" width="68" height="62" as="geometry" />
         </mxCell>
+        <mxCell id="2D4HgjUvMn3YzrhhyBY4-20" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/SQL_Server.svg;" vertex="1" parent="1">
+          <mxGeometry x="350" y="331" width="68" height="68" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
