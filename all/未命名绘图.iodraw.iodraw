@@ -10,14 +10,11 @@
         <mxCell id="2D4HgjUvMn3YzrhhyBY4-7" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Cache_including_Redis.svg;" vertex="1" parent="1">
           <mxGeometry x="590" y="342" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="2D4HgjUvMn3YzrhhyBY4-8" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/DC_OS.svg;" vertex="1" parent="1">
-          <mxGeometry x="1080" y="320" width="40" height="50" as="geometry" />
-        </mxCell>
         <mxCell id="2D4HgjUvMn3YzrhhyBY4-9" value="" style="shadow=0;dashed=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.3d.workstation;" vertex="1" parent="1">
-          <mxGeometry x="654" y="200" width="76" height="62" as="geometry" />
+          <mxGeometry x="500" y="200" width="76" height="62" as="geometry" />
         </mxCell>
         <mxCell id="2D4HgjUvMn3YzrhhyBY4-10" value="" style="shadow=0;dashed=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.3d.workstation;" vertex="1" parent="1">
-          <mxGeometry x="664" y="210" width="76" height="62" as="geometry" />
+          <mxGeometry x="1110" y="200" width="76" height="62" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
