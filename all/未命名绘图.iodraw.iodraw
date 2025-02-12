@@ -7,6 +7,9 @@
         <mxCell id="2D4HgjUvMn3YzrhhyBY4-6" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Cache_Redis_Product.svg;" vertex="1" parent="1">
           <mxGeometry x="680" y="350" width="50" height="42" as="geometry" />
         </mxCell>
+        <mxCell id="2D4HgjUvMn3YzrhhyBY4-7" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Cache_including_Redis.svg;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="320" width="50" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
