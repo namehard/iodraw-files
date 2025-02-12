@@ -20,7 +20,10 @@
           <mxGeometry x="540" y="344" width="35" height="42" as="geometry" />
         </mxCell>
         <mxCell id="2D4HgjUvMn3YzrhhyBY4-13" value="" style="shape=mxgraph.cisco.misc.hp_mini;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="401" y="500" width="50" height="54" as="geometry" />
+          <mxGeometry x="360" y="360" width="50" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="2D4HgjUvMn3YzrhhyBY4-14" value="" style="shape=mxgraph.cisco.misc.hp_mini;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="339" width="50" height="54" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
