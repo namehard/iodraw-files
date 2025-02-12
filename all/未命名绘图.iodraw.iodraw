@@ -16,6 +16,9 @@
         <mxCell id="2D4HgjUvMn3YzrhhyBY4-17" value="" style="shape=mxgraph.cisco.misc.hp_mini;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="1150" y="204" width="50" height="54" as="geometry" />
         </mxCell>
+        <mxCell id="2D4HgjUvMn3YzrhhyBY4-18" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/SQL_Server_Registries.svg;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="350" width="68" height="62" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
