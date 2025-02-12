@@ -37,8 +37,14 @@
         <mxCell id="2D4HgjUvMn3YzrhhyBY4-31" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.data;" vertex="1" parent="1">
           <mxGeometry x="1070" y="350" width="48.6" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2D4HgjUvMn3YzrhhyBY4-32" value="Database" style="text;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="10" y="10" width="80" height="40" as="geometry" />
+        <mxCell id="2D4HgjUvMn3YzrhhyBY4-33" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.mysql_database;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="360" width="37.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="2D4HgjUvMn3YzrhhyBY4-34" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.mysql_database;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="360" width="37.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="2D4HgjUvMn3YzrhhyBY4-35" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.mysql_database;" vertex="1" parent="1">
+          <mxGeometry x="320" y="370" width="37.5" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
