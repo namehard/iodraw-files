@@ -37,6 +37,9 @@
         <mxCell id="2D4HgjUvMn3YzrhhyBY4-31" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.data;" vertex="1" parent="1">
           <mxGeometry x="1070" y="350" width="48.6" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="2D4HgjUvMn3YzrhhyBY4-32" value="Database" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="10" y="10" width="80" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
