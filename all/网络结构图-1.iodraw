@@ -64,7 +64,7 @@
           <mxGeometry width="150" height="118" as="geometry" />
         </mxCell>
         <mxCell id="ao4PlivEfCGIORW3r5Aq-9" value="minio" style="sketch=0;html=1;aspect=fixed;strokeColor=none;shadow=0;fillColor=#3B8DF1;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;shape=mxgraph.gcp2.database_2" vertex="1" parent="ELuROfRh7jPEYIWg2EeA-499">
-          <mxGeometry x="52.379999999999995" y="37" width="45.24" height="58" as="geometry" />
+          <mxGeometry x="52.379999999999995" y="34" width="45.24" height="58" as="geometry" />
         </mxCell>
         <mxCell id="ELuROfRh7jPEYIWg2EeA-503" value="" style="group" parent="ELuROfRh7jPEYIWg2EeA-499" vertex="1" connectable="0">
           <mxGeometry x="174.5" width="270" height="118" as="geometry" />
