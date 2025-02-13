@@ -134,10 +134,10 @@
           <mxGeometry x="1170" y="550" width="230" height="118" as="geometry" />
         </mxCell>
         <mxCell id="ELuROfRh7jPEYIWg2EeA-510" value="Mobile" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.mobile;pointerEvents=1;dashed=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="1514.85" y="283.34999999999997" width="45.5" height="65" as="geometry" />
+          <mxGeometry x="1324.85" y="571.66" width="45.5" height="65" as="geometry" />
         </mxCell>
         <mxCell id="ELuROfRh7jPEYIWg2EeA-527" value="Computer" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.computer;pointerEvents=1;dashed=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="1389.6499999999999" y="281.69" width="75.9" height="68.31" as="geometry" />
+          <mxGeometry x="1199.6499999999999" y="570" width="75.9" height="68.31" as="geometry" />
         </mxCell>
         <mxCell id="ao4PlivEfCGIORW3r5Aq-28" value="HTTPS" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=none;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="1180.4444444444448" y="300" as="geometry" />
