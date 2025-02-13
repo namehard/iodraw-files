@@ -139,26 +139,16 @@
             <mxPoint x="910" y="485" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ao4PlivEfCGIORW3r5Aq-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=blockThin;endFill=1;strokeColor=#0090FF;strokeWidth=2;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="ELuROfRh7jPEYIWg2EeA-485">
+        <mxCell id="ao4PlivEfCGIORW3r5Aq-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=blockThin;endFill=1;strokeColor=#0090FF;strokeWidth=2;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.47;entryY=0.021;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ELuROfRh7jPEYIWg2EeA-485" target="ELuROfRh7jPEYIWg2EeA-491">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1251" y="335" as="sourcePoint" />
             <mxPoint x="695" y="459" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ao4PlivEfCGIORW3r5Aq-23" value="端口：8443 8081" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" vertex="1" connectable="0" parent="ao4PlivEfCGIORW3r5Aq-22">
-          <mxGeometry x="0.1592" y="-5" relative="1" as="geometry">
-            <mxPoint x="41" y="-6" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ao4PlivEfCGIORW3r5Aq-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.469;entryY=-0.017;entryDx=0;entryDy=0;endArrow=blockThin;endFill=1;strokeColor=#0090FF;strokeWidth=2;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+        <mxCell id="ao4PlivEfCGIORW3r5Aq-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.469;entryY=-0.017;entryDx=0;entryDy=0;endArrow=blockThin;endFill=1;strokeColor=#0090FF;strokeWidth=2;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="ELuROfRh7jPEYIWg2EeA-485">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="869" y="398" as="sourcePoint" />
             <mxPoint x="705" y="469" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ao4PlivEfCGIORW3r5Aq-25" value="端口：8443 8081" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" vertex="1" connectable="0" parent="ao4PlivEfCGIORW3r5Aq-24">
-          <mxGeometry x="0.1592" y="-5" relative="1" as="geometry">
-            <mxPoint x="41" y="-6" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
