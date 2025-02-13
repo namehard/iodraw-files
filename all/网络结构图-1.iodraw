@@ -94,26 +94,6 @@
         <mxCell id="ELuROfRh7jPEYIWg2EeA-514" value="Mobile" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.mobile;pointerEvents=1;dashed=1;aspect=fixed;" parent="ELuROfRh7jPEYIWg2EeA-511" vertex="1">
           <mxGeometry x="116" y="19" width="45.5" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="ELuROfRh7jPEYIWg2EeA-515" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=blockThin;endFill=1;strokeColor=#0090FF;strokeWidth=2;" parent="1" source="ELuROfRh7jPEYIWg2EeA-508" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="737" y="366" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ELuROfRh7jPEYIWg2EeA-516" value="HTTPS" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=none;" parent="ELuROfRh7jPEYIWg2EeA-515" vertex="1" connectable="0">
-          <mxGeometry x="-0.2975" y="-28" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ELuROfRh7jPEYIWg2EeA-517" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=blockThin;endFill=1;strokeColor=#0090FF;strokeWidth=2;" parent="1" source="ELuROfRh7jPEYIWg2EeA-512" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="737" y="366" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ELuROfRh7jPEYIWg2EeA-518" value="HTTPS" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=none;" parent="ELuROfRh7jPEYIWg2EeA-517" vertex="1" connectable="0">
-          <mxGeometry x="-0.2994" y="28" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="ELuROfRh7jPEYIWg2EeA-519" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="1540" y="160" width="320" height="118" as="geometry" />
         </mxCell>
