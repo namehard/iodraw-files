@@ -181,6 +181,9 @@
             <mxPoint x="-29" y="-29" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="nDd1pA3SD6NdtC9CETAE-1" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Cache_Redis_Product.svg;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="797" width="50" height="42" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
