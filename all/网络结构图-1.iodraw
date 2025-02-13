@@ -105,9 +105,6 @@
         <mxCell id="ELuROfRh7jPEYIWg2EeA-491" value="&lt;div&gt;nginx&lt;/div&gt;" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/App_Services.svg;dashed=1;fontFamily=Helvetica;fontColor=#000000;strokeColor=#999999;strokeWidth=2;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="1000" y="465.9" width="67.0918637020332" height="52.77893277893278" as="geometry" />
         </mxCell>
-        <mxCell id="ao4PlivEfCGIORW3r5Aq-15" value="Mobile" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.mobile;pointerEvents=1;dashed=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="1600" y="610" width="45.5" height="65" as="geometry" />
-        </mxCell>
         <mxCell id="ao4PlivEfCGIORW3r5Aq-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#0090FF;endArrow=blockThin;endFill=1;strokeWidth=2;" edge="1" parent="1" source="ELuROfRh7jPEYIWg2EeA-494" target="ELuROfRh7jPEYIWg2EeA-504">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -139,7 +136,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ELuROfRh7jPEYIWg2EeA-525" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeColor=#999999;strokeWidth=2;fillColor=#EDF5FF;arcSize=5;align=left;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="1590" y="261" width="230" height="118" as="geometry" />
+          <mxGeometry x="1550" y="261" width="230" height="118" as="geometry" />
         </mxCell>
         <mxCell id="ELuROfRh7jPEYIWg2EeA-510" value="Mobile" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.mobile;pointerEvents=1;dashed=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="1744.5" y="281.65999999999997" width="45.5" height="65" as="geometry" />
