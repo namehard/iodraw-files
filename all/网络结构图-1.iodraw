@@ -39,7 +39,7 @@
           <mxGeometry x="1240" y="290" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ELuROfRh7jPEYIWg2EeA-485" value="Web&amp;nbsp;Roles" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.web_roles;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="840" y="330" width="70" height="58" as="geometry" />
+          <mxGeometry x="840" y="346.66" width="70" height="58" as="geometry" />
         </mxCell>
         <mxCell id="ELuROfRh7jPEYIWg2EeA-493" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="665" y="560" width="445" height="118" as="geometry" />
@@ -136,7 +136,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ELuROfRh7jPEYIWg2EeA-525" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeColor=#999999;strokeWidth=2;fillColor=#EDF5FF;arcSize=5;align=left;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="1550" y="261" width="230" height="118" as="geometry" />
+          <mxGeometry x="1590" y="261" width="230" height="118" as="geometry" />
         </mxCell>
         <mxCell id="ELuROfRh7jPEYIWg2EeA-510" value="Mobile" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.mobile;pointerEvents=1;dashed=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="1744.5" y="281.65999999999997" width="45.5" height="65" as="geometry" />
