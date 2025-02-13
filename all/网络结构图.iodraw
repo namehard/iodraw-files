@@ -78,7 +78,10 @@
           <mxGeometry width="385" height="118" as="geometry" />
         </mxCell>
         <mxCell id="nDd1pA3SD6NdtC9CETAE-1" value="redio" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Cache_Redis_Product.svg;" vertex="1" parent="ELuROfRh7jPEYIWg2EeA-499">
-          <mxGeometry x="314.5" y="35.059999999999945" width="50" height="42" as="geometry" />
+          <mxGeometry x="40" y="37.99999999999994" width="50" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="nDd1pA3SD6NdtC9CETAE-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="ELuROfRh7jPEYIWg2EeA-499" source="ELuROfRh7jPEYIWg2EeA-500" target="ELuROfRh7jPEYIWg2EeA-500">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ELuROfRh7jPEYIWg2EeA-503" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="665.5" y="901" width="385" height="118" as="geometry" />
