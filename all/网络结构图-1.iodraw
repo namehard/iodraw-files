@@ -91,7 +91,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ELuROfRh7jPEYIWg2EeA-491" value="&lt;div&gt;nginx&lt;/div&gt;" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/App_Services.svg;dashed=1;fontFamily=Helvetica;fontColor=#000000;strokeColor=#999999;strokeWidth=2;labelBackgroundColor=none;" parent="1" vertex="1">
+        <mxCell id="ELuROfRh7jPEYIWg2EeA-491" value="&lt;div&gt;Nginx&lt;/div&gt;" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/App_Services.svg;dashed=1;fontFamily=Helvetica;fontColor=#000000;strokeColor=#999999;strokeWidth=2;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="1000" y="465.9" width="67.0918637020332" height="52.77893277893278" as="geometry" />
         </mxCell>
         <mxCell id="ao4PlivEfCGIORW3r5Aq-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#0090FF;endArrow=blockThin;endFill=1;strokeWidth=2;" edge="1" parent="1" source="ELuROfRh7jPEYIWg2EeA-494" target="ELuROfRh7jPEYIWg2EeA-504">
