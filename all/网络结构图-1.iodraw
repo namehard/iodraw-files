@@ -150,10 +150,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ao4PlivEfCGIORW3r5Aq-28" value="HTTPS" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=none;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1450.4444444444448" y="310" as="geometry" />
+          <mxGeometry x="1180.4444444444448" y="300" as="geometry" />
         </mxCell>
         <mxCell id="ao4PlivEfCGIORW3r5Aq-29" value="HTTP" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=none;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1440" y="356.65999999999997" as="geometry">
+          <mxGeometry x="1170" y="346.65999999999997" as="geometry">
             <mxPoint x="9" y="-6" as="offset" />
           </mxGeometry>
         </mxCell>
