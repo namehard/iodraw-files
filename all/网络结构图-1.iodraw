@@ -33,7 +33,7 @@
           <mxGeometry x="824" y="330" width="70" height="58" as="geometry" />
         </mxCell>
         <mxCell id="ELuROfRh7jPEYIWg2EeA-493" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="660" y="580" width="445" height="118" as="geometry" />
+          <mxGeometry x="665" y="560" width="445" height="118" as="geometry" />
         </mxCell>
         <mxCell id="ELuROfRh7jPEYIWg2EeA-494" value="Platform" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeColor=#999999;strokeWidth=2;fillColor=none;arcSize=5;align=left;verticalAlign=top;" parent="ELuROfRh7jPEYIWg2EeA-493" vertex="1">
           <mxGeometry width="445.00000000000006" height="118" as="geometry" />
