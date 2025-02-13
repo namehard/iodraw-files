@@ -96,7 +96,7 @@
         </mxCell>
         <mxCell id="ELuROfRh7jPEYIWg2EeA-532" value="HTTPS" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=none;" parent="ELuROfRh7jPEYIWg2EeA-531" vertex="1" connectable="0">
           <mxGeometry x="-0.3395" y="-29" relative="1" as="geometry">
-            <mxPoint x="-54" y="9" as="offset" />
+            <mxPoint x="-144" y="9" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ao4PlivEfCGIORW3r5Aq-1" value="开发环境&lt;br&gt;&lt;div&gt;10.40.152.199&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="sketch=0;html=1;aspect=fixed;strokeColor=none;shadow=0;fillColor=#3B8DF1;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;shape=mxgraph.gcp2.cloud_server" vertex="1" parent="1">
@@ -145,7 +145,7 @@
           <mxGeometry x="1619.3" y="280" width="75.9" height="68.31" as="geometry" />
         </mxCell>
         <mxCell id="ao4PlivEfCGIORW3r5Aq-27" value="HTTP" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=none;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1430" y="346.65999999999997" as="geometry">
+          <mxGeometry x="1340" y="346.65999999999997" as="geometry">
             <mxPoint x="9" y="-6" as="offset" />
           </mxGeometry>
         </mxCell>
