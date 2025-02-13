@@ -68,13 +68,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ELuROfRh7jPEYIWg2EeA-499" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="665.5" y="758" width="385" height="132" as="geometry" />
+          <mxGeometry x="665.5" y="758" width="164.5" height="132" as="geometry" />
         </mxCell>
         <mxCell id="ELuROfRh7jPEYIWg2EeA-500" value="Object Storage Service" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeColor=#999999;strokeWidth=2;fillColor=none;arcSize=5;align=left;verticalAlign=top;" parent="ELuROfRh7jPEYIWg2EeA-499" vertex="1">
-          <mxGeometry width="385" height="118" as="geometry" />
+          <mxGeometry width="164.5" height="118" as="geometry" />
         </mxCell>
         <mxCell id="ao4PlivEfCGIORW3r5Aq-9" value="minio" style="sketch=0;html=1;aspect=fixed;strokeColor=none;shadow=0;fillColor=#3B8DF1;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;shape=mxgraph.gcp2.database_2" vertex="1" parent="ELuROfRh7jPEYIWg2EeA-499">
-          <mxGeometry x="34.5" y="37" width="45.24" height="58" as="geometry" />
+          <mxGeometry x="14.74090909090909" y="37" width="19.329818181818183" height="24.78181818181818" as="geometry" />
         </mxCell>
         <mxCell id="ELuROfRh7jPEYIWg2EeA-503" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="665.5" y="901" width="385" height="118" as="geometry" />
