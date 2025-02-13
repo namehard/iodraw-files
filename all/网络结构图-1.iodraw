@@ -82,6 +82,9 @@
         <mxCell id="ELuROfRh7jPEYIWg2EeA-505" value="MySQL" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#00BEF2;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;shape=mxgraph.azure.mysql_database;pointerEvents=1;" parent="ELuROfRh7jPEYIWg2EeA-503" vertex="1">
           <mxGeometry x="102" y="28.5" width="44" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="ao4PlivEfCGIORW3r5Aq-5" value="redis" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Cache_Redis_Product.svg;" vertex="1" parent="ELuROfRh7jPEYIWg2EeA-503">
+          <mxGeometry x="234.5" y="28.5" width="61.9" height="52" as="geometry" />
+        </mxCell>
         <mxCell id="ELuROfRh7jPEYIWg2EeA-507" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="384" y="237" width="180" height="118" as="geometry" />
         </mxCell>
@@ -173,9 +176,6 @@
         </mxCell>
         <mxCell id="ELuROfRh7jPEYIWg2EeA-510" value="Mobile" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.mobile;pointerEvents=1;dashed=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="1440" y="420" width="45.5" height="65" as="geometry" />
-        </mxCell>
-        <mxCell id="ao4PlivEfCGIORW3r5Aq-5" value="redis" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Cache_Redis_Product.svg;" vertex="1" parent="1">
-          <mxGeometry x="704.05" y="783" width="61.9" height="52" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
