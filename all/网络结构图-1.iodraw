@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="ELuROfRh7jPEYIWg2EeA-477" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=2;dashed=1;strokeWidth=2;strokeColor=#999999;fillColor=#EDF5FF;" parent="1" vertex="1">
-          <mxGeometry x="589.5" y="197" width="540" height="850" as="geometry" />
+          <mxGeometry x="588" y="197" width="540" height="850" as="geometry" />
         </mxCell>
         <mxCell id="ELuROfRh7jPEYIWg2EeA-479" value="CDN" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.cloud;dashed=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="666.5" y="247" width="70" height="43.08" as="geometry" />
