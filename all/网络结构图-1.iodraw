@@ -21,7 +21,7 @@
         <mxCell id="ELuROfRh7jPEYIWg2EeA-483" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=blockThin;endFill=1;strokeColor=#0090FF;strokeWidth=2;entryPerimeter=0;" parent="1" source="ELuROfRh7jPEYIWg2EeA-484" target="ELuROfRh7jPEYIWg2EeA-485" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ao4PlivEfCGIORW3r5Aq-4" value="端口：8443 8081" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ELuROfRh7jPEYIWg2EeA-483">
+        <mxCell id="ao4PlivEfCGIORW3r5Aq-4" value="端口：8443 8081" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" vertex="1" connectable="0" parent="ELuROfRh7jPEYIWg2EeA-483">
           <mxGeometry x="0.1592" y="-5" relative="1" as="geometry">
             <mxPoint x="41" y="-6" as="offset" />
           </mxGeometry>
