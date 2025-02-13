@@ -38,9 +38,6 @@
         <mxCell id="ELuROfRh7jPEYIWg2EeA-484" value="VPN" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#0090FF;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.vpn_gateway;" parent="1" vertex="1">
           <mxGeometry x="1240" y="290" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ELuROfRh7jPEYIWg2EeA-485" value="Web&amp;nbsp;Roles" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.web_roles;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="840" y="346.66" width="70" height="58" as="geometry" />
-        </mxCell>
         <mxCell id="ELuROfRh7jPEYIWg2EeA-493" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="665" y="560" width="445" height="118" as="geometry" />
         </mxCell>
@@ -149,6 +146,9 @@
           <mxGeometry x="1170" y="346.65999999999997" as="geometry">
             <mxPoint x="9" y="-6" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="ELuROfRh7jPEYIWg2EeA-485" value="Web&amp;nbsp;Roles" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.web_roles;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="840" y="346.66" width="70" height="58" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
