@@ -75,6 +75,9 @@
         <mxCell id="ELuROfRh7jPEYIWg2EeA-505" value="MySQL" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#00BEF2;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;shape=mxgraph.azure.mysql_database;pointerEvents=1;fontSize=12;" parent="ELuROfRh7jPEYIWg2EeA-503" vertex="1">
           <mxGeometry x="52" y="29" width="44" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="ao4PlivEfCGIORW3r5Aq-5" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;Redis&lt;/font&gt;" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=13;image=img/lib/mscae/Cache_Redis_Product.svg;textShadow=0;labelBackgroundColor=none;" vertex="1" parent="ELuROfRh7jPEYIWg2EeA-503">
+          <mxGeometry x="160" y="33" width="61.9" height="52" as="geometry" />
+        </mxCell>
         <mxCell id="ELuROfRh7jPEYIWg2EeA-519" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="1550" y="150" width="320" height="118" as="geometry" />
         </mxCell>
@@ -125,9 +128,6 @@
         </mxCell>
         <mxCell id="ao4PlivEfCGIORW3r5Aq-15" value="Mobile" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.mobile;pointerEvents=1;dashed=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="1600" y="610" width="45.5" height="65" as="geometry" />
-        </mxCell>
-        <mxCell id="ao4PlivEfCGIORW3r5Aq-5" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;Redis&lt;/font&gt;" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=13;image=img/lib/mscae/Cache_Redis_Product.svg;textShadow=0;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1040" y="940" width="61.9" height="52" as="geometry" />
         </mxCell>
         <mxCell id="ao4PlivEfCGIORW3r5Aq-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#0090FF;endArrow=blockThin;endFill=1;strokeWidth=2;" edge="1" parent="1" source="ELuROfRh7jPEYIWg2EeA-494" target="ELuROfRh7jPEYIWg2EeA-504">
           <mxGeometry relative="1" as="geometry">
