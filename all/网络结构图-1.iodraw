@@ -64,7 +64,7 @@
         <mxCell id="ELuROfRh7jPEYIWg2EeA-494" value="Platform" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeColor=#999999;strokeWidth=2;fillColor=none;arcSize=5;align=left;verticalAlign=top;" parent="ELuROfRh7jPEYIWg2EeA-493" vertex="1">
           <mxGeometry width="204" height="118" as="geometry" />
         </mxCell>
-        <mxCell id="ELuROfRh7jPEYIWg2EeA-495" value="API&amp;nbsp;Service" style="html=1;aspect=fixed;strokeColor=none;shadow=0;align=center;verticalAlign=top;fillColor=#00BEF2;shape=mxgraph.gcp2.cloud_computer;dashed=1;labelPosition=center;verticalLabelPosition=bottom;" parent="ELuROfRh7jPEYIWg2EeA-493" vertex="1">
+        <mxCell id="ELuROfRh7jPEYIWg2EeA-495" value="" style="html=1;aspect=fixed;strokeColor=none;shadow=0;align=center;verticalAlign=top;fillColor=#00BEF2;shape=mxgraph.gcp2.cloud_computer;dashed=1;labelPosition=center;verticalLabelPosition=bottom;" parent="ELuROfRh7jPEYIWg2EeA-493" vertex="1">
           <mxGeometry x="22" y="33" width="65" height="57.12" as="geometry" />
         </mxCell>
         <mxCell id="ELuROfRh7jPEYIWg2EeA-496" value="API&amp;nbsp;Service" style="html=1;aspect=fixed;strokeColor=none;shadow=0;align=center;verticalAlign=top;fillColor=#00BEF2;shape=mxgraph.gcp2.cloud_computer;dashed=1;labelPosition=center;verticalLabelPosition=bottom;" parent="ELuROfRh7jPEYIWg2EeA-493" vertex="1">
@@ -195,6 +195,9 @@
           <mxGeometry x="1440" y="420" width="45.5" height="65" as="geometry" />
         </mxCell>
         <mxCell id="ao4PlivEfCGIORW3r5Aq-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ELuROfRh7jPEYIWg2EeA-495" target="ao4PlivEfCGIORW3r5Aq-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ao4PlivEfCGIORW3r5Aq-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ELuROfRh7jPEYIWg2EeA-495" target="ao4PlivEfCGIORW3r5Aq-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
