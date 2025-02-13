@@ -26,7 +26,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ELuROfRh7jPEYIWg2EeA-483" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=blockThin;endFill=1;strokeColor=#0090FF;strokeWidth=2;" parent="1" source="ELuROfRh7jPEYIWg2EeA-484" target="ELuROfRh7jPEYIWg2EeA-491" edge="1">
+        <mxCell id="ELuROfRh7jPEYIWg2EeA-483" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=blockThin;endFill=1;strokeColor=#0090FF;strokeWidth=2;entryPerimeter=0;" parent="1" source="ELuROfRh7jPEYIWg2EeA-484" target="ELuROfRh7jPEYIWg2EeA-485" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ao4PlivEfCGIORW3r5Aq-4" value="端口：8443 8081" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ELuROfRh7jPEYIWg2EeA-483">
@@ -182,7 +182,7 @@
           <mxGeometry x="810" y="148" width="84" height="74.76" as="geometry" />
         </mxCell>
         <mxCell id="ELuROfRh7jPEYIWg2EeA-491" value="&lt;div&gt;nginx&lt;/div&gt;" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/App_Services.svg;dashed=1;fontFamily=Helvetica;fontColor=#000000;strokeColor=#999999;strokeWidth=2;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="972.91" y="370" width="67.0918637020332" height="52.77893277893278" as="geometry" />
+          <mxGeometry x="972.91" y="470" width="67.0918637020332" height="52.77893277893278" as="geometry" />
         </mxCell>
         <mxCell id="ELuROfRh7jPEYIWg2EeA-510" value="Mobile" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.mobile;pointerEvents=1;dashed=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="1440" y="420" width="45.5" height="65" as="geometry" />
