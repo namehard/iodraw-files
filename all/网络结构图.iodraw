@@ -72,16 +72,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ELuROfRh7jPEYIWg2EeA-499" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="665.5" y="758" width="385" height="118" as="geometry" />
+          <mxGeometry x="665.5" y="758" width="194.5" height="118" as="geometry" />
         </mxCell>
         <mxCell id="ELuROfRh7jPEYIWg2EeA-500" value="Data&amp;nbsp;Bus" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeColor=#999999;strokeWidth=2;fillColor=none;arcSize=5;align=left;verticalAlign=top;" parent="ELuROfRh7jPEYIWg2EeA-499" vertex="1">
-          <mxGeometry width="385" height="118" as="geometry" />
+          <mxGeometry width="194.5" height="118" as="geometry" />
         </mxCell>
         <mxCell id="ELuROfRh7jPEYIWg2EeA-501" value="Message&lt;br&gt;Queues" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.service_bus_queues;pointerEvents=1;dashed=1;aspect=fixed;" parent="ELuROfRh7jPEYIWg2EeA-499" vertex="1">
-          <mxGeometry x="96" y="21.5" width="50" height="58.82" as="geometry" />
+          <mxGeometry x="48.4987012987013" y="21.5" width="25.25974025974026" height="29.715558441558443" as="geometry" />
         </mxCell>
         <mxCell id="ELuROfRh7jPEYIWg2EeA-502" value="Data&amp;nbsp;Cache" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.azure_cache;dashed=1;aspect=fixed;" parent="ELuROfRh7jPEYIWg2EeA-499" vertex="1">
-          <mxGeometry x="239.5" y="21.5" width="50" height="55.56" as="geometry" />
+          <mxGeometry x="120.99415584415584" y="21.5" width="25.25974025974026" height="28.06862337662338" as="geometry" />
         </mxCell>
         <mxCell id="ELuROfRh7jPEYIWg2EeA-503" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="665.5" y="901" width="385" height="118" as="geometry" />
@@ -181,7 +181,7 @@
             <mxPoint x="-29" y="-29" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nDd1pA3SD6NdtC9CETAE-1" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Cache_Redis_Product.svg;" vertex="1" parent="1">
+        <mxCell id="nDd1pA3SD6NdtC9CETAE-1" value="redio" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Cache_Redis_Product.svg;" vertex="1" parent="1">
           <mxGeometry x="1080" y="797" width="50" height="42" as="geometry" />
         </mxCell>
       </root>
