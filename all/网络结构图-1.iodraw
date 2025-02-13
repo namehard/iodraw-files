@@ -144,7 +144,7 @@
         <mxCell id="ELuROfRh7jPEYIWg2EeA-485" value="Web&amp;nbsp;Roles" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.web_roles;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="840" y="346.66" width="70" height="58" as="geometry" />
         </mxCell>
-        <mxCell id="ao4PlivEfCGIORW3r5Aq-1" value="开发环境&lt;br&gt;&lt;div&gt;10.40.152.199&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="sketch=0;html=1;aspect=fixed;strokeColor=none;shadow=0;fillColor=#3B8DF1;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;shape=mxgraph.gcp2.cloud_server" vertex="1" parent="1">
+        <mxCell id="ao4PlivEfCGIORW3r5Aq-1" value="开发环境&lt;br&gt;&lt;div&gt;10.40.226.165&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="sketch=0;html=1;aspect=fixed;strokeColor=none;shadow=0;fillColor=#3B8DF1;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;shape=mxgraph.gcp2.cloud_server" vertex="1" parent="1">
           <mxGeometry x="833" y="205.24" width="84" height="74.76" as="geometry" />
         </mxCell>
       </root>
