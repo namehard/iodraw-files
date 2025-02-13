@@ -73,6 +73,9 @@
         <mxCell id="ELuROfRh7jPEYIWg2EeA-500" value="Object Storage Service" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeColor=#999999;strokeWidth=2;fillColor=none;arcSize=5;align=left;verticalAlign=top;" parent="ELuROfRh7jPEYIWg2EeA-499" vertex="1">
           <mxGeometry width="385" height="118" as="geometry" />
         </mxCell>
+        <mxCell id="ao4PlivEfCGIORW3r5Aq-7" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.data;" vertex="1" parent="ELuROfRh7jPEYIWg2EeA-499">
+          <mxGeometry x="69.5" y="72" width="24" height="29.099999999999998" as="geometry" />
+        </mxCell>
         <mxCell id="ELuROfRh7jPEYIWg2EeA-503" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="665.5" y="901" width="385" height="118" as="geometry" />
         </mxCell>
