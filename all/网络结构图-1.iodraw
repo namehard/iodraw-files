@@ -94,6 +94,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="ao4PlivEfCGIORW3r5Aq-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ao4PlivEfCGIORW3r5Aq-1" target="ELuROfRh7jPEYIWg2EeA-485">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ao4PlivEfCGIORW3r5Aq-1" value="开发环境&lt;br&gt;&lt;div&gt;10.40.152.199&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="sketch=0;html=1;aspect=fixed;strokeColor=none;shadow=0;fillColor=#3B8DF1;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;shape=mxgraph.gcp2.cloud_server" vertex="1" parent="1">
           <mxGeometry x="833" y="205.24" width="84" height="74.76" as="geometry" />
         </mxCell>
