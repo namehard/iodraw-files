@@ -100,9 +100,6 @@
         <mxCell id="ELuROfRh7jPEYIWg2EeA-509" value="Media&amp;nbsp;User" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.user;dashed=1;aspect=fixed;" parent="ELuROfRh7jPEYIWg2EeA-507" vertex="1">
           <mxGeometry x="18.5" y="19" width="65" height="68.31" as="geometry" />
         </mxCell>
-        <mxCell id="ELuROfRh7jPEYIWg2EeA-510" value="Mobile" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.mobile;pointerEvents=1;dashed=1;aspect=fixed;" parent="ELuROfRh7jPEYIWg2EeA-507" vertex="1">
-          <mxGeometry x="116" y="19" width="45.5" height="65" as="geometry" />
-        </mxCell>
         <mxCell id="ELuROfRh7jPEYIWg2EeA-511" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="384" y="378" width="180" height="118" as="geometry" />
         </mxCell>
@@ -182,6 +179,9 @@
         </mxCell>
         <mxCell id="ELuROfRh7jPEYIWg2EeA-491" value="&lt;div&gt;nginx&lt;/div&gt;" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/App_Services.svg;dashed=1;fontFamily=Helvetica;fontColor=#000000;strokeColor=#999999;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="972.91" y="370" width="67.0918637020332" height="52.77893277893278" as="geometry" />
+        </mxCell>
+        <mxCell id="ELuROfRh7jPEYIWg2EeA-510" value="Mobile" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.mobile;pointerEvents=1;dashed=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="1440" y="420" width="45.5" height="65" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
