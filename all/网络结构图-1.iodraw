@@ -97,13 +97,10 @@
           <mxGeometry x="24.5" y="19" width="75.9" height="68.31" as="geometry" />
         </mxCell>
         <mxCell id="ELuROfRh7jPEYIWg2EeA-524" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="1540" y="330" width="320" height="118" as="geometry" />
+          <mxGeometry x="1560" y="342" width="320" height="118" as="geometry" />
         </mxCell>
         <mxCell id="ELuROfRh7jPEYIWg2EeA-525" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeColor=#999999;strokeWidth=2;fillColor=#EDF5FF;arcSize=5;align=left;verticalAlign=top;" parent="ELuROfRh7jPEYIWg2EeA-524" vertex="1">
           <mxGeometry width="320" height="118" as="geometry" />
-        </mxCell>
-        <mxCell id="ELuROfRh7jPEYIWg2EeA-527" value="Computer" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.computer;pointerEvents=1;dashed=1;aspect=fixed;" parent="ELuROfRh7jPEYIWg2EeA-524" vertex="1">
-          <mxGeometry x="24.5" y="19" width="75.9" height="68.31" as="geometry" />
         </mxCell>
         <mxCell id="ELuROfRh7jPEYIWg2EeA-529" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endArrow=blockThin;endFill=1;strokeColor=#0090FF;strokeWidth=2;" parent="1" source="ELuROfRh7jPEYIWg2EeA-520" target="ELuROfRh7jPEYIWg2EeA-484" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -133,7 +130,7 @@
           <mxGeometry x="1000" y="465.9" width="67.0918637020332" height="52.77893277893278" as="geometry" />
         </mxCell>
         <mxCell id="ELuROfRh7jPEYIWg2EeA-510" value="Mobile" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.mobile;pointerEvents=1;dashed=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="1520" y="510" width="45.5" height="65" as="geometry" />
+          <mxGeometry x="1770" y="480" width="45.5" height="65" as="geometry" />
         </mxCell>
         <mxCell id="ao4PlivEfCGIORW3r5Aq-15" value="Mobile" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.mobile;pointerEvents=1;dashed=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="1600" y="610" width="45.5" height="65" as="geometry" />
@@ -167,6 +164,9 @@
               <mxPoint x="705" y="430" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="ELuROfRh7jPEYIWg2EeA-527" value="Computer" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.computer;pointerEvents=1;dashed=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="1660" y="480" width="75.9" height="68.31" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
