@@ -77,7 +77,7 @@
         <mxCell id="ELuROfRh7jPEYIWg2EeA-500" value="Data&amp;nbsp;Bus" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeColor=#999999;strokeWidth=2;fillColor=none;arcSize=5;align=left;verticalAlign=top;" parent="ELuROfRh7jPEYIWg2EeA-499" vertex="1">
           <mxGeometry width="150" height="118" as="geometry" />
         </mxCell>
-        <mxCell id="nDd1pA3SD6NdtC9CETAE-1" value="redio" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Cache_Redis_Product.svg;" vertex="1" parent="ELuROfRh7jPEYIWg2EeA-499">
+        <mxCell id="nDd1pA3SD6NdtC9CETAE-1" value="redis" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Cache_Redis_Product.svg;" vertex="1" parent="ELuROfRh7jPEYIWg2EeA-499">
           <mxGeometry x="44.05" y="33" width="61.9" height="52" as="geometry" />
         </mxCell>
         <mxCell id="ELuROfRh7jPEYIWg2EeA-503" value="" style="group" parent="1" vertex="1" connectable="0">
